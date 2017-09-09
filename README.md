@@ -1,3 +1,6 @@
+A Smart Stock Monitoring System, based on IoT, for the automation of inventory management in industries to reduce stockouts,human error and increase profits and personal efficiency.  
+
+
 1.html is the first page of the web app;
 
 
