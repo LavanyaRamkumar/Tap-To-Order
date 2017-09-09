@@ -12,4 +12,6 @@ tooplate_style.css, css,css_pirobox, images are the formattings for 1.html;
 
 http.ino is the file where we have sent the data to the cloud using http protocol (faster and less error prone compared to mqtt);
 
+details2 contains rest of the web pages;
+
 
