@@ -6,14 +6,14 @@ A Smart Stock Monitoring System, based on IoT, for the automation of inventory m
 
 
 
-mqtt.ino - mqtt protocol;
+mqtt.ino - mqtt protocol
 
 
-css,css_pirobox,images  - formattings for 1.html;
+css,css_pirobox,images  - formattings for 1.html
 
 
-http.ino - http protocol (faster and less error prone compared to mqtt);
+http.ino - http protocol (faster and less error prone compared to mqtt)
 
-cog.php - face cognitive feature .
+cog.php - face cognitive feature 
 
 
